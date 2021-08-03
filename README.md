@@ -71,12 +71,9 @@ the user is responsible.
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
-    <br>
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
-    <br>
+    
+     Click WA logo to Join Support Group ðŸ‘‡
+    <br>  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/J78xo5swpSp8k8MrSrdzDN)
 </p>
 
 ----
