@@ -73,7 +73,7 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
+  <img src="https://www.linkpicture.com/q/IMG-20210803-WA0020.jpg" width="200" height="200">
   <h1>🐺 WhatsAsena Duplicated</h1>
 </div>
 <p align="center">
