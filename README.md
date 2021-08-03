@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
+    https://github.com/Ameen-ahd/JADUmon
 
   </a>
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
