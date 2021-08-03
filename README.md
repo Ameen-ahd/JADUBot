@@ -72,9 +72,8 @@ the user is responsible.
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     
-     Click WA logo to Join Support Group ðŸ‘‡
-    <br>  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/J78xo5swpSp8k8MrSrdzDN)
-</p>
+     [Click WA logo to Join Support Group ðŸ‘‡]
+    <br>[![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/J78xo5swpSp8k8MrSrdzDN)
 
 ----
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
