@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    https://github.com/Ameen-ahd/JADUmon
+   
 
   </a>
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
@@ -27,7 +27,7 @@
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
     
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
+ 
 
   </a>
 </p>
