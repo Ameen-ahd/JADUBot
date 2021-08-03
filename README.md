@@ -9,18 +9,16 @@
     <img src="https://www.linkpicture.com/q/IMG-20210803-WA0020.jpg">
     
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
+  <a href="https://github.com/Ameen-ahd/JADUmon/stargazers">
+    <img src="https://img.shields.io/github/stars/Ameen-ahd/JADUmon?style=social">
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/commits/master">
-    <img src="https://img.shields.io/github/commit-activity/m/phaticusthiccy/WhatsAsenaDuplicated?style=social">
+  <a href="https://github.com/Ameen-ahd/JADUmon/master">
+    <img src="https://img.shields.io/github/commit-activity/m/Ameen-ahd/JADUmon?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
-
   </a>
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
@@ -44,38 +42,6 @@
   </a>
 </p>
 
-```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
-
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
-
-WhatsAsena - Asena Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
 
 <div align="center">
   <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
@@ -116,19 +82,11 @@ the user is responsible.
 
 ### The Hard Method
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
-$ npm i
-$ nano Config.env
-// Config.env oluşturun ve düzenleyin.
-// Config.env create and edit.
-$ node bot.js
-```
+$ git clone ="https://github.com/Ameen-ahd/JADUmon"
 
 ##
 
-### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+
 
 ##
 
