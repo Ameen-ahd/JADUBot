@@ -1,12 +1,12 @@
-## Thanks for Everything 
+#JADUmon
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
+- [Yusuf Usta](https://github.com/Ameen-ahd/JADUmon)
 - [@fusufs](https://t.me/fusufs)
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
+  <a href="https://github.com/Ameen-ahd/JADUmon/fork">
+    <img src="https://www.linkpicture.com/q/IMG-20210803-WA0020.jpg">
     
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
@@ -112,7 +112,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ameen-ahd/JADUmon)
 
 ### The Hard Method
 ```js
