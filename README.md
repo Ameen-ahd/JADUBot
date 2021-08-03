@@ -5,7 +5,7 @@
 - [@fusufs](https://t.me/fusufs)
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
+  <a href="https://github.com/Ameen-ahd/JADUmon/fork">
     <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
     
   </a>
