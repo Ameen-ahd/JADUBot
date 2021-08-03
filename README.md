@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 - [Yusuf Usta](https://github.com/yusufusta)
-- [@ameen](https://t.me/Ahmad Mk)
+- [@](https://t.me/AhmadMk)
 
 <p align="center">
   <a href="https://github.com/Ameen-ahd/JADUmon/fork">
