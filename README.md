@@ -26,14 +26,7 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
-
-  </a>
-  <a href="https://t.me/asenaremaster">
+    
     <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
 
   </a>
@@ -73,8 +66,8 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img src="https://www.linkpicture.com/q/IMG-20210803-WA0020.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena Duplicated</h1>
+  <img src="https://www.linkpicture.com/q/IMG-20210803-WA0020.jpg" width="100" height="100">
+  <h1>💕 JADUmon </h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
