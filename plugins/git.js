@@ -30,7 +30,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *sticker commads  https://github.com/Ameen-ahd/JADUmon/tree/master/stickers*
 
-*support group    https://chat.whatsapp.com/J78xo5swpSp8k8MrSrdzDN
+*support group    https://chat.whatsapp.com/J78xo5swpSp8k8MrSrdzDN*
 `}) 
 
 }));
