@@ -56,7 +56,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '917034817401@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Hi','King','alive','Bgm','Hlo','Love','Pali','sad','Song','Neymar','Messi']
+const array = ['Hi','King','alive','Bgm','Hlo','Love','Pali','sad','Song','Neymar','Messi','SFI','Ringtone','Patt','Bot','Allu','Vijay']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
