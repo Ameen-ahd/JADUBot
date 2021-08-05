@@ -111,11 +111,19 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
         await message.client.sendMessage(message.jid,Lang.DELETED, MessageType.text)
     }
 }));
-
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
-        if (!!message.mention && message.mention[0] == '917034817401@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/Mention.webp'), MessageType.audio, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
-        }
+    
+     if (message.jid === '919383400679-1627924673@g.us') {
+
+            return;
+        } 
+    
+    if(Config.AUTOSTICKER){
+    let banned = jid.find( Jid => Jid === message.jid);
+    if(banned !== undefined) return
+    if (!!message.mention && message.mention[0] == '918943562401@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    }
 const array = ['Aliya','Ameen','Comady','Da','Enjoy','Hi','Kallan','Manyan','Neymar','Sugham']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
