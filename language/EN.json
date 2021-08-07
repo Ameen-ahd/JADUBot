@@ -186,9 +186,7 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "```*Song Thapatte 💃*```",
-            "UPLOADING_SONG": "*Song upload cheyyunnu aliyaa, cheviyil vekkuna sadanam pettanu vecho 👉🎧*   
-                *↻       ⊲    Ⅱ    ⊳      ↺*            
-          VOLUME: ▁▂▃▄▅▆▇ 100%",
+            "UPLOADING_SONG": "*Song uploaded aliyaa, cheviyil vekkuna sadanam pettanu vecho 👉🎧* #*↻       ⊲    Ⅱ    ⊳      ↺* # VOLUME: ▁▂▃▄▅▆▇ 100%",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading your video...```",
