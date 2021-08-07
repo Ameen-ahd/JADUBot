@@ -28,8 +28,7 @@ if (Config.WORKTYPE == 'private') {
                     }
     
                     var HANDLER = '';
-    
-                    if (/\[(\W*)\]/.test(Config.HANDLERS)) {
+   test(Config.HANDLERS)) {
                         HANDLER = Config.HANDLERS.match(/\[(\W*)\]/)[1][0];
                     } else {
                         HANDLER = '.';
