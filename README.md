@@ -111,10 +111,9 @@ If you are concerned about security, you can install it on your own computer. If
 ### Is it paid?
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
-### What does Asena mean?
-<a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img https://github.com/Ameen-ahd/JADUmon/blob/e9468d54348fc823f38250a70088b18dfd247bc6/uploads/Mario_Gameplay.gif">
-
+### 
+<div align="center">
+  <img src="https://github.com/Ameen-ahd/JADUmon/blob/master/uploads/Mario_Gameplay.gif">
 
 ##
 
