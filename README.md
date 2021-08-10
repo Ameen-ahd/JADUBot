@@ -111,8 +111,7 @@ If you are concerned about security, you can install it on your own computer. If
 ### Is it paid?
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
-### 
-<div align="center">
+### <div align="center">
   <img src="https://github.com/Ameen-ahd/JADUmon/blob/master/uploads/Mario_Gameplay.gif">
 
 ##
