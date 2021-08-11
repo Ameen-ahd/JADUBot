@@ -56,7 +56,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '918943562401@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Hi','King','alive','Bgm','Hlo','Love','Pali','Sad','Song','Neymar','Messi','SFI','Ringtone','paatt','Bot','Allu','Vijay','Bai','Power','Sed','Venda','Manyan','gdnight','Goodmorning','Loveu','Polikkum','Save','Chunk','Va','Kali','Da','Umbi','3g','Avalu','Palkuppi','Gun','Go','Nialle','Ooo','Kannapi','Mood','Africa','Fan','Poda','Life','Cr7','Ronaldo','song','help']
+const array = ['Hi','King','alive','Bgm','Hlo','Love','Pali','Sad','Song','Neymar','Messi','SFI','Ringtone','paatt','Bot','Allu','Vijay','Bai','Power','Sed','Venda','Manyan','gdnight','Goodmorning','Loveu','Polikkum','Save','Chunk','Va','Kali','Da','Umbi','3g','Avalu','Palkuppi','Gun','Go','Nialle','Ooo','Kannapi','Mood','Africa','Fan','Poda','Life','Cr7','Ronaldo','song','help','Don','goodmorning','Single','Sir','Ameen','Okby','Myr','Angry']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
