@@ -14,7 +14,8 @@ const Lang = Language.getString('_asena');
 if (Config.WORKTYPE == 'private') {
 
     Asena.addCommand({pattern: 'help ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
-
+ 
+        r_text[0] = "https://tinyurl.com/ykxwd25q";   
         var CMD_HELP = '';
         if (match[1] === '') {
             Asena.commands.map(
