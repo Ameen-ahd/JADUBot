@@ -13,9 +13,16 @@ const Lang = Language.getString('_asena');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({pattern: 'help ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
- 
-        r_text[0] = "https://tinyurl.com/ykxwd25q";   
+   Asena.addCommand({pattern: 'help', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+
+   var r_text = new Array ();
+    
+    
+   
+   r_text[0] = "https://tinyurl.com/ykxwd25q";
+   
+   Asena.addCommand({pattern: 'help ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+   
         var CMD_HELP = '';
         if (match[1] === '') {
             Asena.commands.map(
