@@ -186,7 +186,7 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "*Song Thapatte 💃*",
-            "UPLOADING_SONG": "*Song uploaded aliyaa, cheviyil vekkuna sadanam pettanu vecho 🤙🎧*\n*□□□□□ 0%*\n*■□□□□ 20%*\n*■■□□□ 40%*\n*■■■□□ 60%*\n*■■■■□ 80%*\n*■■■■■ 100%*\n*⇆ㅤ◁ㅤ ❚❚ㅤ ▷ㅤ↻*",
+            "UPLOADING_SONG": "*WAIT IS IN PROCESS*\n*┈╭┳━┳━┻┳┻━┳━┳╮┈*\n*┈┃┃╭━━╮┃╭━━╮┃┃┈*\n*┈┃┃┃╭╮┃┃┃╭╮┃┃┃┈*\n*┈┃┃┗┛┗┛┃┗┛┗┛┃┃┈*\n*┈┃┃┏━┓┏━┓┏━┓┃┃┈*\n*┈┃┃╰━┗┛━┗┛━╯┃┃┈*\n*┈╰┻━┻━━┻━━┻━┻╯┈*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading your video...```",
