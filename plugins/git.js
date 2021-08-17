@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *Bgm updation💘*
 
-*Owner number wa.me/917034817401*
+*Owner number wa.me/918943562401*
 
 *githublink       https://github.com/Ameen-ahd/JADUmon*
 
