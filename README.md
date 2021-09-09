@@ -96,7 +96,7 @@ the user is responsible.
 ##
 
 ### ⚒️ Setup Wiki - insta [Full Guide - Tam Anlatım]
-[![Setup - insta](https://img.icons8.com/clouds/300/000000/settings.png)](https://www.instagram.com/___a_____2___z__?r=nametag)
+[![Setup - insta](https://img.icons8.com/clouds/300/000000/settings.png)](https://www.instagram.com/ameen_ahmad?_mr=nametag)
 
 ##
 
